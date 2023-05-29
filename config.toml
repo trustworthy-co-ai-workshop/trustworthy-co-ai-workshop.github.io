@@ -1,5 +1,5 @@
 title = "Trustworthy-co-AI"
-baseURL = "https://gohugo-theme-ananke.pages.dev"
+baseURL = "http://trustworthy-co-ai-workshop.github.io"
 languageCode = "en-us"
 theme = 'ananke'
 resourceDir = "../resources"
