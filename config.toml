@@ -1,4 +1,4 @@
-title = "Trustworthy-co-AI"
+title = "Trustworthy Collaborative AI"
 baseURL = "http://trustworthy-co-ai-workshop.github.io"
 languageCode = "en-us"
 theme = 'ananke'
@@ -12,7 +12,7 @@ enableRobotsTXT = true
 
 [languages]
   [languages.en]
-    title = "Trustworthy-co-AI@Neurips2023"
+    title = "Trustworthy-co-AI@NeurIPS"
     weight = 1
     contentDir = "content/en"
     # languageDirection = 'rtl' for Right-To-Left languages
@@ -32,6 +32,4 @@ enableRobotsTXT = true
   background_color_class = "bg-black"
   recent_posts_number = 3
 
-[[params.ananke_socials]]
-name = "github"
-url = "https://twitter.com/GoHugoIO"
+
