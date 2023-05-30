@@ -28,3 +28,17 @@ The following is a non-exhaustive list of topics we aim to address through our i
 * Theoretical foundations for trustworthy collaborative learning systems, aiming to provide a solid base for future developments.
 
 * New benchmark datasets and evaluation metrics.
+
+
+**Technical Program Committee**
+
+* Yingfan Wang (Duke University)   
+* Ziyan Wang	(Georgia Institute of Technology)   
+* Zihao Xu	(Rutgers University)  
+* Xinyu Xu	(The Hong Kong University of Science and Technology)  
+* Miao Li	(Wuhan University)  
+* Sylvain Calinon	(Idiap Research Institute)  
+* Fanny Ficuciello	(University of Naples Federico II)  
+* Qianyi Chen	(The Hong Kong Polytechnic University)  
+* Tianhang Zheng	(University of Toronto)  
+* Peifei Zhu	(Tianjin University)  
