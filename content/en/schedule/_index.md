@@ -8,7 +8,7 @@ weight: 20
 
 ---
 
-|     Time     |                                                              |              EVENT               |
+|     TIME     |                                                              |              EVENT               |
 | :----------: | ------------------------------------------------------------ | :------------------------------: |
 | 9:00 - 9:15  | &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Introduction and Opening Remarks |
 | 9:15 - 9:45  |                                                              |          Invited Talk 1          |
