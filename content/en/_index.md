@@ -43,3 +43,4 @@ The following is a non-exhaustive list of topics we aim to address through our i
 * Tianhang Zheng	(University of Toronto)  
 * Peifei Zhu	(Tianjin University, China)  
 * Aoxiao Zhong (Harvard University, USA)
+* Guo Zhang (Massachusetts Institute of Technology, USA)
