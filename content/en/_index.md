@@ -32,13 +32,14 @@ The following is a non-exhaustive list of topics we aim to address through our i
 
 **Program Committee**
 
-* Yingfan Wang (Duke University)   
-* Ziyan Wang	(Georgia Institute of Technology)   
-* Zihao Xu	(Rutgers University)  
-* Xinyu Xu	(The Hong Kong University of Science and Technology)  
-* Miao Li	(Wuhan University)  
-* Sylvain Calinon	(Idiap Research Institute)  
-* Fanny Ficuciello	(University of Naples Federico II)  
-* Qianyi Chen	(The Hong Kong Polytechnic University)  
+* Yingfan Wang (Duke University, USA)   
+* Ziyan Wang	(Georgia Institute of Technology, USA)   
+* Zihao Xu	(Rutgers University, USA)  
+* Xinyu Xu	(The Hong Kong University of Science and Technology, Hong Kong, China)  
+* Miao Li	(Wuhan University, China)  
+* Sylvain Calinon	(Idiap Research Institute, Switzerland)  
+* Fanny Ficuciello	(University of Naples Federico II, Italy)  
+* Qianyi Chen	(The Hong Kong Polytechnic University, China)  
 * Tianhang Zheng	(University of Toronto)  
-* Peifei Zhu	(Tianjin University)  
+* Peifei Zhu	(Tianjin University, China)  
+* Aoxiao Zhong (Harvard University, USA)
