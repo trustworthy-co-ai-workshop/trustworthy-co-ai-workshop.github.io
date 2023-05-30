@@ -4,7 +4,7 @@
     <div class="flex flex-column flex-row-ns">
       {{ if $featured_image }}
           {{/* Trimming the slash and adding absURL make sure the image works no matter where our site lives */}}
-        <div class="{{ cond (eq $.Site.Language.LanguageDirection "rtl") "pl3-ns" "pr3-ns" }} mb4 mb0-ns w-100 w-40-ns">
+        <div class="{{ cond (eq $.Site.Language.LanguageDirection "rtl") "pl3-ns" "pr3-ns" }} mb4 mb0-ns w-100 w-60-ns">
             <img src="{{ $featured_image }}" class="img" alt="image from {{ .Title }}">
         </div>
       {{ end }}
@@ -65,6 +65,11 @@
               {{ .Title }}
               </a>
           {{end}}
+          {{ if $.Param "cynthia" }}
+          <a href="https://users.cs.duke.edu/~cynthia/" class="color-inherit link">
+            {{ .Title }}
+            </a>
+        {{end}}
           {{ if $.Param "david" }}
             <a href="http://www.cs.toronto.edu/~duvenaud/" class="color-inherit link">
               {{ .Title }}
