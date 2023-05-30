@@ -40,6 +40,7 @@ The following is a non-exhaustive list of topics we aim to address through our i
 * Sylvain Calinon	(Idiap Research Institute, Switzerland)  
 * Fanny Ficuciello	(University of Naples Federico II, Italy)  
 * Qianyi Chen	(The Hong Kong Polytechnic University, China)  
-* Tianhang Zheng	(University of Toronto)  
+* Tianhang Zheng	(University of Toronto, Canada)  
 * Peifei Zhu	(Tianjin University, China)  
 * Aoxiao Zhong (Harvard University, USA)
+* Guo Zhang (Massachusetts Institute of Technology, USA)
