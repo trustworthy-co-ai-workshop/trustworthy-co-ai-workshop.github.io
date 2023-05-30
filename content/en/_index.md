@@ -30,7 +30,7 @@ The following is a non-exhaustive list of topics we aim to address through our i
 * New benchmark datasets and evaluation metrics.
 
 
-**Technical Program Committee**
+**Program Committee**
 
 * Yingfan Wang (Duke University)   
 * Ziyan Wang	(Georgia Institute of Technology)   
