@@ -8,4 +8,4 @@ chenyang: yes
 
 ---
 
-Washington University
+Washington University in St. Louis
