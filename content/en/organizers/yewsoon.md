@@ -9,4 +9,4 @@ yew: yes
 
 ---
 
-Nanyang Technological University 
+Nanyang Technological University, A*STAR
