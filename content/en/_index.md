@@ -43,4 +43,6 @@ The following is a non-exhaustive list of topics we aim to address through our i
 * Tianhang Zheng	(University of Toronto, Canada)  
 * Peifei Zhu	(Tianjin University, China)  
 * Aoxiao Zhong (Harvard University, USA)
-* Guo Zhang (Massachusetts Institute of Technology, USA)
+* Guo Zhang (Massachusetts Institute of Technology, USA)  
+* Ziyi Zhang  (South China University of Technology, China)  
+* Mingxuan Ouyang  (The Hong Kong Polytechnic University, Hong Kong, China)         
